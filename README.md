@@ -1,5 +1,5 @@
 # QAEduKH
-IP-Project
+My internet programming project in year 3.
 
 after installing the required libs (can take a look at package.json & package_lock.json)
 
